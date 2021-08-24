@@ -10,8 +10,8 @@
 
 :outbox_tray:  2021 Goals: Learn programming logic, object orientation and develop a complete Android application.
 
+ [![dbastosdev GitHub stats](https://github-readme-stats.vercel.app/api?username=dbastosdev)](https://github.com/dbastosdev/github-readme-stats)
  
-
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dbastosdev)](https://github.com/dbastosdev)
