@@ -2,13 +2,13 @@
 
 ## I'm Douglas Bastos!
 
-:computer :  I am a 1rd Period undergraduate from Analysis and Systems Development at SENAC
+:computer:  I am a 1rd Period undergraduate from Analysis and Systems Development at SENAC
 
-:house_with_garden :  I’m from Brazil.
+:house_with_garden:  I’m from Brazil.
 
-:books :  I'm currently learning a little about everything, in special Java Android and Javascript.
+:books:  I'm currently learning a little about everything, in special Java Android and Javascript.
 
-:outbox_tray :  2021 Goals: Learn programming logic, object orientation and develop a complete Android application.
+:outbox_tray:  2021 Goals: Learn programming logic, object orientation and develop a complete Android application.
 
  
 
