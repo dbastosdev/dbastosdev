@@ -8,7 +8,7 @@
 
 :outbox_tray:  Meus objetivos em 2021: 
 - [x] Aprender lógica de programação; 
-- [ ] Aprender orientação a objetos; 
+- [ ] Aprender orientação a objetos em Java; 
 - [ ] Desenvolver uma aplicação Android completa e postar na google play.
 
  [![dbastosdev GitHub stats](https://github-readme-stats.vercel.app/api?username=dbastosdev)](https://github.com/dbastosdev/github-readme-stats)
