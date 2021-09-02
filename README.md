@@ -7,9 +7,9 @@
 :books:  Estou aprendendendo um pouco sobre tudo na área de tecnologia, em especial Android e Web.
 
 :outbox_tray:  Meus objetivos em 2021: 
-- [x] Aprender lógica de programação, 
-- [ ] orientação a objetos e 
-- [ ] desenvolver uma aplicação Android completa.
+- [x] Aprender lógica de programação; 
+- [ ] Aprender orientação a objetos; 
+- [ ] Desenvolver uma aplicação Android completa e postar na google play.
 
  [![dbastosdev GitHub stats](https://github-readme-stats.vercel.app/api?username=dbastosdev)](https://github.com/dbastosdev/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbastosdev&layout=compact)](https://github.com/dbastosdev/github-readme-stats)
