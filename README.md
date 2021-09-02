@@ -7,7 +7,7 @@
 :books:  Estou aprendendendo um pouco sobre tudo na área de tecnologia, em especial Android e Web.
 
 :outbox_tray:  Meus objetivos em 2021: 
-- [ ] Aprender lógica de programação, 
+- [x] Aprender lógica de programação, 
 - [ ] orientação a objetos e 
 - [ ] desenvolver uma aplicação Android completa.
 
