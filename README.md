@@ -7,9 +7,9 @@
 :books:  Estou aprendendendo um pouco sobre tudo na área de tecnologia.
 
 :outbox_tray:  Meus objetivos em 2021: 
-- [x] Aprender lógica de programação; 
-- [ ] Aprender orientação a objetos; 
-- [ ] Aprender estrutura de dados.
+- [x] Iniciar os estudos de lógica de programação e estrutura de dados; 
+- [ ] Iniciar estudos sobre orientação a objetos; 
+- [ ] Iniciar estudo sobre aplicações web.
 
  [![dbastosdev GitHub stats](https://github-readme-stats.vercel.app/api?username=dbastosdev)](https://github.com/dbastosdev/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbastosdev&layout=compact)](https://github.com/dbastosdev/github-readme-stats)
