@@ -8,8 +8,8 @@
 
 :outbox_tray:  Meus objetivos em 2021: 
 - [x] Iniciar os estudos de lógica de programação e estrutura de dados; 
-- [ ] Iniciar estudos sobre orientação a objetos; 
-- [ ] Iniciar estudo sobre aplicações web.
+- [x] Iniciar estudos sobre orientação a objetos; 
+- [x] Iniciar estudo sobre aplicações web.
 
  [![dbastosdev GitHub stats](https://github-readme-stats.vercel.app/api?username=dbastosdev)](https://github.com/dbastosdev/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbastosdev&layout=compact)](https://github.com/dbastosdev/github-readme-stats)
