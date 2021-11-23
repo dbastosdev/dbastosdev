@@ -6,7 +6,7 @@
 
 :books:  Estou aprendendendo um pouco sobre tudo na área de tecnologia.
 
-:outbox_tray:  Meus objetivos em 2021: 
+:outbox_tray: Metas para 2021: 
 - [x] Iniciar os estudos de lógica de programação e estrutura de dados; 
 - [x] Iniciar estudos sobre orientação a objetos; 
 - [x] Iniciar estudo sobre aplicações web.
