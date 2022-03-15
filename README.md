@@ -1,6 +1,6 @@
 # Welcome!
 
-:computer:  Graduated in Engineering. I'm a student of Systems Analysis and Development at SENAC.
+:computer:  Graduated in Electrical Engineering. I'm a student of Systems Analysis and Development at SENAC.
 
 :house_with_garden:  I code from RJ | Brazil.
 
