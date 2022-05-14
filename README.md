@@ -1,6 +1,21 @@
 # Seja bem vindo(a)!
 
-:computer:  Analista e Desenvolvedor de sistemas iniciante. Possuo conhecimentos em Java OO, MySQL, HTML, CSS, Javascript, Node.JS, Web Design responsivo, Eclipse IDE, Git e GitHub.
+:computer:  Analista e Desenvolvedor de sistemas em formação. Previsão de formatura Dez/2023. 
+
+Conhecimento de nível acadêmico: 
+
+- Orientação a objetos com Java;
+- MySQL
+- Estrutura de dados.
+
+Conhecimentos obtidos em cursos - Exploração: 
+- HTML, CSS, Javascript;
+- Node.JS;
+- Python;
+- PHP
+- Web Design responsivo;
+- Swift e iOS;
+- Git e GitHub.
 
 Trabalho bem em equipe. Cooperando, aprendendo e compartilhando conhecimento com o time. Sou proativo e criativo na resolução de problemas. 
 
