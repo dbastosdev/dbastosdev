@@ -11,7 +11,6 @@ Conhecimento de nível acadêmico:
 Conhecimentos obtidos em cursos - Exploração: 
 - HTML, CSS, Javascript;
 - Node.JS;
-- Python;
 - PHP
 - Web Design responsivo;
 - Swift e iOS;
