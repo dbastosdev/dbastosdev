@@ -16,10 +16,6 @@ Conhecimentos obtidos em cursos - Exploração:
 - Swift e iOS;
 - Git e GitHub.
 
-Trabalho bem em equipe. Cooperando, aprendendo e compartilhando conhecimento com o time. Sou proativo e criativo na resolução de problemas. 
-
-Possuo experiência em trabalho com Startups, tendo participado dos programas Startup Rio, Shell iniciativa Jovem dentre outros programas representando a Startup Enguia.
-
 :house_with_garden:  Escrevo códigos do RJ | Brasil.
 
 [![dbastosdev GitHub stats](https://github-readme-stats.vercel.app/api?username=dbastosdev)](https://github.com/dbastosdev/github-readme-stats)
