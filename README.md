@@ -2,19 +2,14 @@
 
 :computer:  Analista e Desenvolvedor de sistemas em formação. Previsão de formatura Dez/2023. 
 
-Conhecimento de nível acadêmico: 
+Conhecimento técnicos: 
 
-- Orientação a objetos com Java;
-- MySQL
-- Estrutura de dados.
-
-Conhecimentos obtidos em cursos - Exploração: 
+- Java e Orientação a Objetos;
 - HTML, CSS, Javascript;
 - Node.JS;
 - PHP
-- Web Design responsivo;
-- Swift e iOS;
-- Git e GitHub.
+- MySQL
+- Estrutura de dados.
 
 :house_with_garden:  Escrevo códigos do RJ | Brasil.
 
