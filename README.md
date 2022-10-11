@@ -8,8 +8,7 @@ Conhecimento técnicos:
 - HTML, CSS, Javascript;
 - Node.JS;
 - PHP
-- MySQL
-- Estrutura de dados.
+- MySQL.
 
 :house_with_garden:  Escrevo códigos do RJ | Brasil.
 
