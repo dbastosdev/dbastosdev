@@ -8,9 +8,6 @@ I am continuous working to improve my skills and always learning about technolog
 
 👨🏾‍💻 GitHub: https://github.com/dbastosdev
 
-[![dbastosdev GitHub stats](https://github-readme-stats.vercel.app/api?username=dbastosdev)](https://github.com/dbastosdev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbastosdev&layout=compact)](https://github.com/dbastosdev/github-readme-stats)
-
 ## Entre em contato pelo linkedin:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-b-5a7413219/)]( https://www.linkedin.com/in/douglas-b-5a7413219/)
