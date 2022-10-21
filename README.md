@@ -6,8 +6,6 @@ I am continuous working to improve my skills and always learning about technolog
 
 📨 Email: dbastos.dev@gmail.com
 
-👨🏾‍💻 GitHub: https://github.com/dbastosdev
-
 ## Linkedin:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-b-5a7413219/)]( https://www.linkedin.com/in/douglas-b-5a7413219/)
