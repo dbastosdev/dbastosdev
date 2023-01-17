@@ -1,4 +1,4 @@
-👋 Hello! I'm a beginner Software Developer with basic and undergraduate knowledge in many techs like Java POO, HTML, CSS, Javascript, Node.js, PHP, Laravel and MySql database. 
+👋 Hello! I'm a beginner Software Developer with knowledge in many techs like Java, Spring Boot, HTML, CSS, Javascript, Node.js, PHP, Laravel and MySql database. 
 
 I love how tech can impact business and change people lives. I’m very curious, adaptable and open to new challenges. 
 
