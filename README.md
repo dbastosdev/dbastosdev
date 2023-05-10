@@ -1,4 +1,4 @@
-👋 Hello! I'm a beginner Software Developer with knowledge in many techs like HTML, CSS, Javascript, PHP, Laravel and MySql database. 
+👋 Hello! I'm a beginner Software Engineer with work experience in PHP/Laravel, Java/Spring and relational database with mysql and postgres. 
 
 I love how tech can impact business and change people lives. I’m very curious, adaptable and open to new challenges. 
 
